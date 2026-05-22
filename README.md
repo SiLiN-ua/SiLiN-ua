@@ -83,21 +83,9 @@ Specializing in **advanced cross-platform background investigations**, executive
 
 ## 🚀 Projects
 
-<a href="https://github.com/SiLiN-ua/ThunderTrace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiLiN-ua&repo=ThunderTrace&theme=tokyonight&border_color=00b4ff" />
-</a>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SiLiN-ua&show_icons=true&theme=tokyonight&border_color=00b4ff&hide_border=false" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiLiN-ua&layout=compact&theme=tokyonight&border_color=00b4ff" height="160"/>
-
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| ⚡ [ThunderTrace](https://github.com/SiLiN-ua/ThunderTrace) | OSINT username intelligence tool — search across 350+ platforms | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) |
 
 ---
 
