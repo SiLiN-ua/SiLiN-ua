@@ -87,6 +87,7 @@ Specializing in **advanced cross-platform background investigations**, executive
 |---------|-------------|-------|
 | ⚡ [ThunderTrace](https://github.com/SiLiN-ua/ThunderTrace) | OSINT username intelligence tool — search across 350+ platforms | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) |
 | 影鏡 [KagamiID](https://github.com/SiLiN-ua/KagamiID) | Ghost of Tsushima styled OSINT identity lookup — 15 platforms, username & ID search · [🌐 Live](https://kagamiid.onrender.com) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) |
+| 🌙 [MooN-Attacks](https://github.com/SiLiN-ua/MooN-Attacks) | Real-time military threat intelligence platform — Telegram monitoring + AI reports + interactive map | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask) |
 
 ---
 
